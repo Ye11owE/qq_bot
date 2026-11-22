@@ -1,5 +1,5 @@
 # 🤖 QQ AI Agent Bot
-
+（此项目借助千问+codex制作生成）
 基于 **NoneBot2 + OneBot v11 + OpenAI API** 的 QQ 智能聊天机器人，支持多轮对话、工具调用、文件收发、图片理解等能力。
 
 ## ✨ 功能特性
